@@ -38,7 +38,7 @@ export default function handleSubmit(
     let newPerson = { ...person, preference: finalperf };
     // console.log(newPerson);
     setSubmit(true);
-    console.log(e.target);
+    // console.log(e.target);
     const scriptURL = 'https://script.google.com/macros/s/AKfycby31mS5fuSCq8QR6WXH9cHAZjlsk0T9al-OyCjKVJO44liYzRfj/exec'
    
     fetch(scriptURL, { method: 'POST', body: new FormData(e.target)})
