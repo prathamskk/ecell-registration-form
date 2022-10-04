@@ -1,0 +1,136 @@
+{
+  "year": [
+    {
+      "value": "",
+      "label": ""
+    },
+    {
+      "value": "FE",
+      "label": "FE"
+    },
+    {
+      "value": "SE",
+      "label": "SE"
+    },
+    {
+      "value": "TE",
+      "label": "TE"
+    },
+    {
+      "value": "BE",
+      "label": "BE"
+    }
+  ],
+  "Perference": [
+    {
+      "value": "",
+      "label": ""
+    },
+    {
+      "value": "website",
+      "label": "Website"
+    },
+    {
+      "value": "graphics",
+      "label": "Graphics"
+    },
+    {
+      "value": "on-stage",
+      "label": "On-Stage"
+    },
+    {
+      "value": "paparazzi",
+      "label": "Paparazzi"
+    },
+    {
+      "value": "technical",
+      "label": "Technical"
+    },
+    {
+      "value": "public relations",
+      "label": "Public Relations"
+    },
+    {
+      "value": "social media",
+      "label": "Social Media"
+    },
+    {
+      "value": "logistics",
+      "label": "Logistics"
+    },
+    {
+      "value": "content",
+      "label": "Content"
+    },
+    {
+      "value": "discipline",
+      "label": "Discipline"
+    },
+    {
+      "value": "hospitality",
+      "label": "Hospitality"
+    },
+    {
+      "value": "documnentations",
+      "label": "Documentation"
+    }
+  ],
+  "PerferenceOpt": [
+    {
+      "value": "",
+      "label": ""
+    },
+    {
+      "value": "website",
+      "label": "Website"
+    },
+    {
+      "value": "graphics",
+      "label": "Graphics"
+    },
+    {
+      "value": "on-stage",
+      "label": "On-Stage"
+    },
+    {
+      "value": "paparazzi",
+      "label": "Paparazzi"
+    },
+    {
+      "value": "technical",
+      "label": "Technical"
+    },
+    {
+      "value": "public relations",
+      "label": "Public Relations"
+    },
+    {
+      "value": "social media",
+      "label": "Social Media"
+    },
+    {
+      "value": "content",
+      "label": "Content"
+    },
+    {
+      "value": "logistics",
+      "label": "Logistics"
+    },
+    {
+      "value": "discipline",
+      "label": "Discipline"
+    },
+    {
+      "value": "hospitality",
+      "label": "Hospitality"
+    },
+    {
+      "value": "documnentations",
+      "label": "Documentation"
+    },
+    {
+      "value": "none",
+      "label": "None"
+    }
+  ]
+}
